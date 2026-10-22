@@ -1,0 +1,14 @@
+/node_modules
+
+/config.env
+.env
+.codegpt
+.qodo
+
+# Environment files
+.env
+.env.*
+!.env.example
+client/.env
+client/.env.*
+!client/.env.example
